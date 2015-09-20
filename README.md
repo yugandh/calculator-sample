@@ -1,2 +1,4 @@
 # calculator-sample
-this is testing a program
+ testing a program
+how are you
+fine
